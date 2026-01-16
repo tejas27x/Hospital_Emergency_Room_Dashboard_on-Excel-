@@ -4,7 +4,11 @@ An interactive **Hospital Emergency Room Analysis Dashboard** built using **Micr
 This project helps healthcare stakeholders make **data-driven decisions** to improve emergency room efficiency and patient experience.
 
 ---
+## 📷 Dashboard Preview
 
+![Hospital Emergency Room Dashboard](Screenshot 2026-01-16 194106.png)
+
+---
 ## 📊 Project Overview
 
 The dashboard provides a **monthly performance report** of the hospital emergency room with dynamic filtering by **year and month**.  
