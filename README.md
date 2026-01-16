@@ -6,7 +6,7 @@ This project helps healthcare stakeholders make **data-driven decisions** to imp
 ---
 ## 📷 Dashboard Preview
 
-![Hospital Emergency Room Dashboard](Screenshot2026-01-16194106.png)
+![Hospital Emergency Room Dashboard](images/dashboard.png)
 
 ---
 ## 📊 Project Overview
